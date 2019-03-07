@@ -1,2 +1,4 @@
-# DigitalOceanMeetupMX
-Repositorio para propuestas de charlas para el Meetup de DigitalOcean México City
+# DigitalOcean México City Meetup
+
+
+Auqí podrás ver algunos recursos de los que hablemos en los meetups pero también podrás proponer charlas. Abre un Issue y lo discutimos.
